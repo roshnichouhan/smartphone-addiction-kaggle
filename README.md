@@ -1,3 +1,11 @@
+
+
+Uploading Recording 2026-08-27 144521.mp4…
+
+
+
+https://github.com/user-attachments/assets/01fb6b28-612e-4c23-aaa1-99c64337f10a
+
 # 📱 Predicting Smartphone Addiction
 
 A machine learning project built for the **Kaggle Playground Series – Predicting Smartphone Addiction** competition.
